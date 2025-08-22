@@ -3,7 +3,7 @@
 Welcome to **py-playground** — my personal coding space where I practice, experiment, and learn Python step by step.  
 This repo isn’t just for college assignments, it’s also a place I can come back to later when I need a quick refresh or want to see how far I’ve come.  
 
-I made this for my **future self** too — because sometimes you forget the small details you once knew, and a well-kept repo makes it easy to pick things back up.  
+I made this for my **future self** too because sometimes you forget the small details you once knew, and a well-kept repo makes it easy to pick things back up.  
 
 ---
 
@@ -90,7 +90,7 @@ Maintained by **Tanush Gupta** → [tanush-space](https://github.com/tanush-spac
 
 ---
 
-⭐ If you’re reading this later (hello, future me) — remember how you started here with the basics, and look at how much you’ve grown. Keep coding.
+⭐ If you’re reading this later (hello, future me), remember how you started here with the basics, and look at how much you’ve grown. Keep coding.
 
 👉 Do you want me to also add a **“Future Projects” section** (like web app, data analysis, etc.) so teacher sees you’re ambitious too?
 ```
