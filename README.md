@@ -60,7 +60,7 @@ I made this for my **future self** too because sometimes you forget the small de
 1. Clone the repo:  
    ```bash
    git clone https://github.com/tanush-space/py-playground.git
-````
+   ```
 
 2. Navigate inside:
 
@@ -93,4 +93,3 @@ Maintained by **Tanush Gupta** → [tanush-space](https://github.com/tanush-spac
 
 ⭐ If you’re reading this later (hello, future me), remember how you started here with the basics, and look at how much you’ve grown. Keep coding.
 
-```
