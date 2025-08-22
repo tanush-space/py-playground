@@ -67,6 +67,7 @@ I made this for my **future self** too because sometimes you forget the small de
    ```bash
    cd py-playground
    ```
+
 3. Run any Python file:
 
    ```bash
@@ -92,5 +93,4 @@ Maintained by **Tanush Gupta** → [tanush-space](https://github.com/tanush-spac
 
 ⭐ If you’re reading this later (hello, future me), remember how you started here with the basics, and look at how much you’ve grown. Keep coding.
 
-👉 Do you want me to also add a **“Future Projects” section** (like web app, data analysis, etc.) so teacher sees you’re ambitious too?
 ```
