@@ -60,3 +60,4 @@ for r in buttons:
                relief=RAISED, command=lambda x=b: click(x)).pack(side=LEFT, expand=True, fill=BOTH, padx=5, pady=5)
 
 root.mainloop()
+ 
