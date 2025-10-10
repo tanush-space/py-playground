@@ -1,0 +1,13 @@
+'''17	Write a program to Append, insert, and remove elements from a list.'''
+lst=list(map(int,input("Enter numbers separated by space: ").split()))
+print("Original list:",lst)
+x=int(input("Enter number to append: "))
+lst.append(x)
+print("After append:",lst)
+y=int(input("Enter number to insert: "))
+p=int(input("Enter position: "))
+lst.insert(p,y)
+print("After insert:",lst)
+z=int(input("Enter number to remove: "))
+lst.remove(z)
+print("After remove:",lst)
