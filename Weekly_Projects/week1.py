@@ -1,20 +1,15 @@
 import streamlit as st
 from datetime import datetime
 
-# Set page title
 st.set_page_config(page_title="My Python Application", layout="centered")
 
-# SCREEN 1 
 st.markdown("## ====================================")
 st.markdown("###     Welcome to my Application!     ")
 st.markdown("## ====================================")
 
-# Taking user input
 name = st.text_input("Please enter your name:")
 
-# SCREEN 2 
 if name:
-    # Get current date and time
     current_time = datetime.now()
     formatted_time = current_time.strftime("%d %B %Y, %I:%M %p")
 
@@ -23,7 +18,6 @@ if name:
     st.write(f"**Hello, {name}!**")
     st.write(f"**Current Date and Time:** {formatted_time}")
 
-    # Continue button
     if st.button("Continue"):
         st.markdown("""
         ---
